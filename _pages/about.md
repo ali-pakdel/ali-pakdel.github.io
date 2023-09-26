@@ -13,3 +13,5 @@ I’m Ali Pakdel Samadi, an undergraduate computer engineering student living in
 
 ## What are my research interests?
 Security, Privacy, Congitive Sciences, Neuroscience, Blockchain
+
+## What are my other interests?
