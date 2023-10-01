@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 ## Download
+
 To Download my latest CV, click [here](/files/cv.pdf).
